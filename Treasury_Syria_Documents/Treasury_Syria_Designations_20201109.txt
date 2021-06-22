@@ -1,0 +1,59 @@
+Syria Designations; Syria-related Designations; Hong Kong-related Designations
+206
+Release date
+11/09/2020
+https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions/20201109
+
+
+Body
+SPECIALLY DESIGNATED NATIONALS LIST UPDATE
+The following individuals have been added to OFAC's SDN List:
+AL-ALI, Nasr (Arabic: ناصر العلي) (a.k.a. AL-ALI, Naser; a.k.a. AL-ALI, Nasir; a.k.a. AL-ALI, Nasser; a.k.a. ALI, Nasser), Damascus, Syria; DOB 01 Feb 1961; POB Manbij, Aleppo, Syria; nationality Syria; Gender Male (individual) [SYRIA].
+
+BIN AHMED RUSHDI AL-QATIRJI, Hussam (Arabic: حسام بن أحمد رشدي قاطرجي) (a.k.a. AL-QATIRJI, Hossam (Arabic: حسام القاطرجي); a.k.a. AL-QATIRJI, Hussam; a.k.a. KATARJI, Hussam; a.k.a. KATERJI, Hussam; a.k.a. KHATARJI, Hussam; a.k.a. KHATIRJI, Hussam; a.k.a. QATARJI, Hossam; a.k.a. QATERJI, Hussam; a.k.a. QATIRJI BIN AHMED RUSHDI, Hussam (Arabic: حسام قاطرجي بن احمد رشدي)), Syria; DOB 11 Jan 1982; POB Raqqa, Syria; nationality Syria; Gender Male (individual) [SYRIA].
+
+DENG, Zhonghua (Chinese Simplified: 邓中华), China; DOB Sep 1961; POB Changsha City, Hunan Province, China; nationality China; Gender Male (individual) [HK-EO13936].
+
+IMAD AL-DIN AL-MADANI, Kamal (Arabic: كمال عمد الدين المدني) (a.k.a. AMAD AL-DIN AL-MADANI, Kamal; a.k.a. IMAD AL-DEEN AL-MADANI, Kamal), Beirut, Lebanon; DOB 08 Dec 1980; nationality Lebanon; Gender Male (individual) [SYRIA].
+
+IMAD AL-DIN AL-MADANI, Tariq (Arabic: طارق عماد الدين المدني) (a.k.a. AMAD AL-DIN AL-MADANI, Tariq; a.k.a. IMAD AL-DEEN AL-MADANI, Tarek; a.k.a. IMAD AL-DIN AL-MADANI, Tareq), Beirut, Lebanon; DOB 12 Dec 1984; nationality Lebanon; Gender Male (individual) [SYRIA].
+
+ISMAIL, Ghassan Jaoudat (Arabic: غسان جودت إسماعيل) (a.k.a. ISMAEL, Ghassan Jaoudat; a.k.a. SALAMEH, Ghassan), Aleppo, Syria; DOB 1960; POB Junaynat Ruslan, Darkoush, Drekish, Tartous, Syria; nationality Syria; Gender Male (individual) [SYRIA].
+
+KHITI, Amer Taysir (Arabic: عامر تيسير خيتي) (a.k.a. KHEITI, Amer Tayseer; a.k.a. KHEITI, Amer Taysir), Damascus, Syria; DOB 31 Jul 1980; POB Douma, Syria; nationality Syria; alt. nationality Sudan; Gender Male (individual) [SYRIA].
+
+LAU, Edwina (a.k.a. LAU, Chi Wai (Chinese Traditional: 劉賜蕙); a.k.a. LAU, Edwina Chi Wai; a.k.a. LIU, Cihui (Chinese Simplified: 刘赐蕙)), Hong Kong, China; DOB 29 Jul 1965; POB Hong Kong, China; nationality China; Gender Female; Passport HA1338416 (Hong Kong) expires 27 May 2015; National ID No. D5545251 (Hong Kong) (individual) [HK-EO13936].
+
+LI, Jiangzhou (Chinese Simplified: 李江舟), Hong Kong, China; DOB Jan 1968; POB Qianshan City, Anhui Province, China; nationality China; Gender Male (individual) [HK-EO13936].
+
+LI, Kwai-wah (Chinese Traditional: 李桂華) (a.k.a. LEE, Kwai-wah; a.k.a. LI, Guihua (Chinese Simplified: 李桂华); a.k.a. LI, Steve Kwai-wah), Flat B, 22 Floor, Block 30, Laguna City, Lam Tin, Kowloon City, Hong Kong, China; DOB 22 Nov 1964; POB Hong Kong, China; nationality China; Gender Male; Passport K06749109 (Hong Kong) expires 06 Sep 2028; National ID No. D4017081 (Hong Kong) (individual) [HK-EO13936].
+
+RUSTOM, Saqr (Arabic: صقر رستم) (a.k.a. AL-ROSTOM, Saqer Asaad; a.k.a. AL-RUSTOM, Saqr As'ad (Arabic: صقر أسعد الرستم); a.k.a. ROSTOM, Saker; a.k.a. RUSTOM, Sakkar; a.k.a. RUSTOM, Sakker; a.k.a. RUSTOM, Sakr; a.k.a. RUSTOM, Saqqar; a.k.a. RUSTOM, Saqqer), Homs, Syria; DOB 1974; POB Khirbet al-Hamam, Homs, Syria; nationality Syria; Gender Male; National ID No. 06110065397 (Syria) (individual) [SYRIA-EO13894].
+
+TOUMEH BIN MOHAMMED, Nabil (Arabic: نبيل طعمة بن محمد) (a.k.a. MOHAMMED TOHMA, Nabil (Arabic: نبيل محمد طعمة); a.k.a. TOUMEH, Nabil; a.k.a. TU'MAH, Nabil; a.k.a. "BIN MOHAMMED TOAMEH, Nabil"; a.k.a. "TOHMA, Nabil" (Arabic: "نبيل طعمة")), Damascus, Syria; DOB 04 Jan 1957; POB Damascus, Syria; nationality Syria; Gender Male (individual) [SYRIA].
+
+The following entities have been added to OFAC's SDN List:
+AL-RESAFA REFINERY COMPANY PRIVATE JSC (a.k.a. AL-RUSAFA REFINERY COMPANY (Arabic: شركة مصفاة الرصافة)), Al-Rusafa, Raqqa, Syria; Organization Established Date 09 Feb 2020; Organization Type: Manufacture of refined petroleum products [SYRIA].
+
+ARFADA PETROLEUM PRIVATE JOINT STOCK COMPANY (Arabic: شركة أرفادا البترولية المساهمة المغفلة الخاصة) (a.k.a. ARFADA PETROLEUM COMPANY JSC; a.k.a. ARVADA PETROLEUM COMPANY JSC), Mashroua Dummar, Lot No. 13, Building 12/2, Damascus, Syria; Website https://www.arfada.com/; Organization Established Date 24 Apr 2018; Organization Type: Support activities for petroleum and natural gas extraction; Registration Number 18394 (Syria) [SYRIA] [SYRIA-CAESAR].
+
+COASTAL REFINERY COMPANY PRIVATE JSC (a.k.a. AL-SAHEL REFINERY COMPANY; a.k.a. COAST REFINERY COMPANY (Arabic: شركة مصافة الساحل)), Tartous, Syria; Organization Established Date 09 Feb 2020; Organization Type: Manufacture of refined petroleum products [SYRIA].
+
+KHITI HOLDING GROUP (Arabic: مجموعة خيتي القابضة) (a.k.a. KHEITI HOLDING GROUP; a.k.a. KHITI HOLDING COMPANY; a.k.a. KHITI HOLDING PRIVATE JSC), Mazzeh Highway, Damascus, Syria; Mashroa Domar, Damascus, Syria; Website www.khaitiholding.com; alt. Website www.khitiholding.com; Organization Established Date 2018; Organization Type: Activities of holding companies [SYRIA] (Linked To: KHITI, Amer Taysir).
+
+MILITARY CONSTRUCTION ESTABLISHMENT (Arabic: مؤسسة تنفيذ الإنشاءات العسكرية) (a.k.a. MILITARY CONSTRUCTION IMPLEMENTATION CORPORATION; a.k.a. "MATAA" (Arabic: "متاع"); a.k.a. "MCIC"), Kafarsouseh Circle, next to Al-Rafai Mosque, Damascus, Syria; Hama, Syria; Lattakia, Syria; Tartous, Syria; Jableh, Syria; Organization Established Date 1972; Organization Type: Construction of buildings; alt. Organization Type: Construction of roads and railways; alt. Organization Type: Construction of other civil engineering projects [SYRIA].
+
+NATIONAL DEFENSE FORCES (Arabic: قوات الدفاع الوطني), Damascus, Syria; Organization Established Date 2012 [SYRIA-EO13894].
+
+PRODUCTIVE PROJECTS ADMINISTRATION (Arabic: إدارة المشاريع الإنتاجية) (a.k.a. INTAJIA (Arabic: الانتاجية); a.k.a. INTAJIA PPA), P.O. Box 4703, Customs Free Zone, Damascus, Syria; Aleppo, Syria; Website http://intajia.sy; Organization Established Date 1973; Organization Type: Manufacture of pharmaceuticals, medicinal chemical and botanical products [SYRIA].
+
+PUBLIC ESTABLISHMENT FOR REFINING AND DISTRIBUTION (Arabic: المؤسسة العامة لتكرير النفط و توزيع المشتقات النفطية) (a.k.a. GENERAL ORGANIZATION FOR REFINING AND DISTRIBUTION OF PETROLEUM PRODUCTS; a.k.a. THE PUBLIC ESTABLISHMENT FOR OIL REFINING AND THE DISTRIBUTION OF OIL DERIVATIVES), Tripoli Road, P.O. Box 342, Homs, Syria; Website http://perd.sy/; Organization Established Date 2009; Organization Type: Support activities for petroleum and natural gas extraction [SYRIA].
+
+SALLIZAR SHIPPING SAL (Arabic: ساليزار شيبينغ ش.م.ل.), 1st Floor, Shuwairi Bldg., Boulevard Saib Salam, al-Masraa, Beirut Corniche, Lebanon; Organization Established Date 12 Apr 2018; Registration Number 1024992 (Lebanon) [SYRIA] [SYRIA-CAESAR].
+
+SYRIAN MINISTRY OF PETROLEUM AND MINERAL RESOURCES (Arabic: وزارة النفط و الثروة المعدنية) (a.k.a. MINISTRY OF OIL AND MINERAL RESERVES), Dummar, P.O. Box 31483, Damascus, Syria; Website http://mopmr.gov.sy/ [SYRIA].
+
+TOUMEH INTERNATIONAL GROUP (Arabic: مجموعة طعمة الدولية), Damascus, Syria; Organization Established Date 1975; Organization Type: Activities of holding companies [SYRIA] (Linked To: TOUMEH BIN MOHAMMED, Nabil).
+
+Press Release Link
+Treasury Imposes Sanctions on Petroleum Network, Senior Syrian Officials, and Syrian Entities

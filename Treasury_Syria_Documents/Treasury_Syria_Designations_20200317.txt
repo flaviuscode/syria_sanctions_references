@@ -1,0 +1,54 @@
+Syria-related Designation; Syria Designations Removals; Global Magnitsky Designation Removal; Foreign Sanctions Evaders Determination Removal
+
+Release date
+03/17/2020
+https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions/20200317
+
+Body
+SPECIALLY DESIGNATED NATIONALS LIST UPDATE
+The following individual has been added to OFAC's SDN List:
+AYOUB, Ali Abdullah (Arabic: علي عبدالله أيوب); DOB 28 Apr 1952; POB Latakia, Syria; nationality Syria; Gender Male (individual) [SYRIA-EO13894].
+
+The following deletions have been made to OFAC's SDN List:
+INTERLOG DRC (a.k.a. INTERLOG S.P.R.L.; f.k.a. "BSD GROUP"; f.k.a. "BSD S.P.R.L."), 532 Av. Chemin Public, Commune Annexe, Lubumbashi, Congo, Democratic Republic of the; 4013 Route Du Golf, Lubumbashi, Congo, Democratic Republic of the; Route CDM, Industrial Zone, Lubumbashi, Congo, Democratic Republic of the; Cassumbalessa Border, Congo, Democratic Republic of the; Industrial Quarter, Lusaka, Zambia; National ID No. 6-71-N7269D (Congo, Democratic Republic of the) [GLOMAG] (Linked To: FLEURETTE PROPERTIES LIMITED).
+
+INTERLOG S.P.R.L. (a.k.a. INTERLOG DRC; f.k.a. "BSD GROUP"; f.k.a. "BSD S.P.R.L."), 532 Av. Chemin Public, Commune Annexe, Lubumbashi, Congo, Democratic Republic of the; 4013 Route Du Golf, Lubumbashi, Congo, Democratic Republic of the; Route CDM, Industrial Zone, Lubumbashi, Congo, Democratic Republic of the; Cassumbalessa Border, Congo, Democratic Republic of the; Industrial Quarter, Lusaka, Zambia; National ID No. 6-71-N7269D (Congo, Democratic Republic of the) [GLOMAG] (Linked To: FLEURETTE PROPERTIES LIMITED).
+
+"BSD GROUP" (a.k.a. INTERLOG DRC; a.k.a. INTERLOG S.P.R.L.; f.k.a. "BSD S.P.R.L."), 532 Av. Chemin Public, Commune Annexe, Lubumbashi, Congo, Democratic Republic of the; 4013 Route Du Golf, Lubumbashi, Congo, Democratic Republic of the; Route CDM, Industrial Zone, Lubumbashi, Congo, Democratic Republic of the; Cassumbalessa Border, Congo, Democratic Republic of the; Industrial Quarter, Lusaka, Zambia; National ID No. 6-71-N7269D (Congo, Democratic Republic of the) [GLOMAG] (Linked To: FLEURETTE PROPERTIES LIMITED).
+
+"BSD S.P.R.L." (a.k.a. INTERLOG DRC; a.k.a. INTERLOG S.P.R.L.; f.k.a. "BSD GROUP"), 532 Av. Chemin Public, Commune Annexe, Lubumbashi, Congo, Democratic Republic of the; 4013 Route Du Golf, Lubumbashi, Congo, Democratic Republic of the; Route CDM, Industrial Zone, Lubumbashi, Congo, Democratic Republic of the; Cassumbalessa Border, Congo, Democratic Republic of the; Industrial Quarter, Lusaka, Zambia; National ID No. 6-71-N7269D (Congo, Democratic Republic of the) [GLOMAG] (Linked To: FLEURETTE PROPERTIES LIMITED).
+
+IOANNOU, Ioannis; DOB 29 Nov 1954; POB Cyprus; nationality Cyprus; Passport E386670 (Cyprus); Identification Number 502128 (Cyprus) (individual) [SYRIA].
+
+BLUEMARINE SA (a.k.a. BLUE MARINE SHIPPING AGENCY S.A.; a.k.a. BLUEMARINE AG; a.k.a. BLUEMARINE LTD), Lindenstrasse 2, Baar 6340, Switzerland [SYRIA] [FSE-SY].
+
+BLUE MARINE SHIPPING AGENCY S.A. (a.k.a. BLUEMARINE AG; a.k.a. BLUEMARINE LTD; a.k.a. BLUEMARINE SA), Lindenstrasse 2, Baar 6340, Switzerland [SYRIA] [FSE-SY].
+
+BLUEMARINE AG (a.k.a. BLUE MARINE SHIPPING AGENCY S.A.; a.k.a. BLUEMARINE LTD; a.k.a. BLUEMARINE SA), Lindenstrasse 2, Baar 6340, Switzerland [SYRIA] [FSE-SY].
+
+BLUEMARINE LTD (a.k.a. BLUE MARINE SHIPPING AGENCY S.A.; a.k.a. BLUEMARINE AG; a.k.a. BLUEMARINE SA), Lindenstrasse 2, Baar 6340, Switzerland [SYRIA] [FSE-SY].
+
+SKIRRON HOLDING SA (a.k.a. SKIRRON HOLDING AG), Lindenstrasse 2, Baar 6340, Switzerland [SYRIA].
+
+SKIRRON HOLDING AG (a.k.a. SKIRRON HOLDING SA), Lindenstrasse 2, Baar 6340, Switzerland [SYRIA].
+
+VAINSHTEIN, Arkadiy (a.k.a. VAINSHTEIN, Arkadiy Mikhailovich); DOB 30 Dec 1941; Supervisory Board Member, Tempbank (individual) [SYRIA] (Linked To: TEMPBANK).
+
+VAINSHTEIN, Arkadiy Mikhailovich (a.k.a. VAINSHTEIN, Arkadiy); DOB 30 Dec 1941; Supervisory Board Member, Tempbank (individual) [SYRIA] (Linked To: TEMPBANK).
+
+The following changes have been made to OFAC's SDN List:
+EZEGOO INVESTMENTS LTD, 1 Logothetou, Lemesos 4043, Cyprus; National ID No. C310521 (Cyprus) [SYRIA] (Linked To: IOANNOU, Ioannis; Linked To: KHURI, Mudalal; Linked To: NICOLAOU, Nicos; Linked To: PRIMAX BUSINESS CONSULTANTS LIMITED). -to- EZEGOO INVESTMENTS LTD, 1 Logothetou, Lemesos 4043, Cyprus; National ID No. C310521 (Cyprus) [SYRIA] (Linked To: KHURI, Mudalal; Linked To: NICOLAOU, Nicos; Linked To: PRIMAX BUSINESS CONSULTANTS LIMITED).
+
+NICOLAOU, Nicos; DOB 06 Apr 1965; POB Cyprus; nationality Cyprus (individual) [SYRIA] (Linked To: IOANNOU, Ioannis; Linked To: PIRUSETI ENTERPRISES LTD; Linked To: KHURI, Mudalal). -to- NICOLAOU, Nicos; DOB 06 Apr 1965; POB Cyprus; nationality Cyprus (individual) [SYRIA] (Linked To: PIRUSETI ENTERPRISES LTD; Linked To: KHURI, Mudalal).
+
+The following deletions have been made to OFAC's FSE List:
+BLUEMARINE SA (a.k.a. BLUE MARINE SHIPPING AGENCY S.A.; a.k.a. BLUEMARINE AG; a.k.a. BLUEMARINE LTD), Lindenstrasse 2, Baar 6340, Switzerland [SYRIA] [FSE-SY].
+
+BLUE MARINE SHIPPING AGENCY S.A. (a.k.a. BLUEMARINE AG; a.k.a. BLUEMARINE LTD; a.k.a. BLUEMARINE SA), Lindenstrasse 2, Baar 6340, Switzerland [SYRIA] [FSE-SY].
+
+BLUEMARINE AG (a.k.a. BLUE MARINE SHIPPING AGENCY S.A.; a.k.a. BLUEMARINE LTD; a.k.a. BLUEMARINE SA), Lindenstrasse 2, Baar 6340, Switzerland [SYRIA] [FSE-SY].
+
+BLUEMARINE LTD (a.k.a. BLUE MARINE SHIPPING AGENCY S.A.; a.k.a. BLUEMARINE AG; a.k.a. BLUEMARINE SA), Lindenstrasse 2, Baar 6340, Switzerland [SYRIA] [FSE-SY].
+
+Press Release Link
+The State Department Imposes Sanctions on Individual Responsible for the Violence in Northern Syria

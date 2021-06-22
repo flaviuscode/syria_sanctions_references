@@ -1,0 +1,55 @@
+
+RECENT ACTIONS
+Enforcement Actions
+General Licenses
+Misc./Other
+Regulations and Guidance
+Sanctions List Updates
+Syria Designations; Syria-related Designations and Designation Removal
+
+Release date
+07/29/2020
+https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions/20200729
+
+Body
+SPECIALLY DESIGNATED NATIONALS LIST UPDATE
+The following individuals have been added to OFAC's SDN List:
+
+AL-ASSAD, Hafez (Arabic: حافظ الاسد) (a.k.a. ASSAD, Hafez), Syria; DOB 04 Dec 2001; POB Damascus, Syria; nationality Syria; Gender Male (individual) [SYRIA-EO13894] (Linked To: AL-ASSAD, Bashar).
+
+AL-ASSAD, Karam (Arabic: كرام الاسد) (a.k.a. ASSAD, Karam), Syria; DOB 1978; POB Qardaha, Syria; nationality Syria; Gender Male (individual) [SYRIA-EO13894] (Linked To: AL-ASSAD, Zuhair Tawfik).
+
+AL-ASSAD, Zuhair Tawfik (Arabic: زهير توفيق الاسد) (a.k.a. AL-ASSAD, Zuhair Tawfiq; a.k.a. AL-ASSAD, Zuheir Tawfiq; a.k.a. ASSAD, Zuhair), Syria; DOB 1958; POB Qardaha, Syria; nationality Syria; Gender Male (individual) [SYRIA-EO13894].
+
+AL-QATTAN, Wassim Anwar (Arabic: وسيم انوار القطان) (a.k.a. AL-KATAN, Wassim Anouar; a.k.a. AL-KATTAN, Waseem; a.k.a. AL-KATTAN, Wasseem; a.k.a. AL-QATAN, Waseem; a.k.a. QATTAN, Waseem; a.k.a. QATTAN, Wasim), Damascus, Syria; DOB 04 Mar 1976; nationality Syria; Gender Male (individual) [SYRIA] [SYRIA-CAESAR].
+
+The following entities have been added to OFAC's SDN List:
+
+ADAM TRADING AND INVESTMENT LLC (Arabic: شركة ادم التجارة و الاستثمار), Damascus, Syria; Organization Established Date 25 Feb 2018; Organization Type: Real estate activities on a fee or contract basis [SYRIA] [SYRIA-CAESAR] (Linked To: AL-QATTAN, Wassim Anwar).
+
+AL-JALAA HOTEL (Arabic: فندق الجلاء) (a.k.a. AL-JALA' HOTEL; a.k.a. AL-JALAA), Mazzeh Motorway, Damascus, Syria; Organization Type: Short term accommodation activities [SYRIA].
+
+FIRST DIVISION OF THE SYRIAN ARAB ARMY (Arabic: الفرقة الأولى الجيش العربي السوري) (a.k.a. "1ST ARMORED DIVISION"; a.k.a. "FIRST ARMORED DIVISION" (Arabic: "الفرقة الأولى المدرعة")), Syria [SYRIA-EO13894].
+
+INTERSECTION LLC (Arabic: شركة نقطة تقاطع), Rural Damascus, Syria; Organization Established Date 11 Mar 2018; Organization Type: Construction of buildings [SYRIA] [SYRIA-CAESAR] (Linked To: AL-QATTAN, Wassim Anwar).
+
+LAROSA FURNITURE (Arabic: مفروشات لاروسا) (a.k.a. LAROSA FURNISHING), Damascus, Syria; Organization Type: Manufacture of furniture [SYRIA] (Linked To: AL-QATTAN, Wassim Anwar).
+
+MASSA PLAZA MALL (a.k.a. AL-MALIKI MALL (Arabic: مول المالكي); a.k.a. MALKI MALL), Malki District, Damascus, Syria [SYRIA].
+
+MURUJ CHAM INVESTMENT AND TOURISM GROUP (a.k.a. MUROOJ AL-CHAM INVESTMENT AND TOURISM COMPANY (Arabic: شركة مروج الشام الاستثمار و السياحة); a.k.a. MUROOJ AL-CHAM INVESTMENT AND TOURISM GROUP), 1149 Main Street, Al-Saboura, Damascus, Syria; Organization Established Date 23 Jun 2015; Organization Type: Real estate activities on a fee or contract basis; alt. Organization Type: Construction of buildings [SYRIA] [SYRIA-CAESAR] (Linked To: AL-QATTAN, Wassim Anwar).
+
+QASIOUN MALL (Arabic: مول قاسيون) (a.k.a. QASIYUN MALL; a.k.a. QASSIOUN SHOPPING MALL), Barzeh District, Damascus, Syria [SYRIA].
+
+WASSIM KATTAN LLC (a.k.a. "TWA LLC" (Arabic: "شركة تي دبلايو ا"); a.k.a. "WK LLC" (Arabic: "شركة دبليو ك")), Rural Damascus, Syria; Organization Established Date 04 Jul 2019; Organization Type: Sale of motor vehicle parts and accessories [SYRIA] (Linked To: AL-QATTAN, Wassim Anwar).
+
+YALBAGHA COMPLEX (Arabic: مجمع يلبغا) (a.k.a. YALBUGHA COMPLEX; a.k.a. YALBUGHA REAL ESTATE COMPOUND), Damascus, Syria; Organization Type: Short term accommodation activities [SYRIA].
+
+The following deletions have been made to OFAC's SDN List:
+
+HAMCHO, Sumaia Saber (Arabic: سعمية صابر حمشو) (a.k.a. HAMSHO, Somaya Saber), Doha, Qatar; DOB 16 Apr 1965; POB Damascus, Syria; nationality Syria; alt. nationality Qatar; Gender Female; Passport 01175686 (Qatar) (individual) [SYRIA-EO13894].
+
+HAMSHO, Somaya Saber (a.k.a. HAMCHO, Sumaia Saber (Arabic: سعمية صابر حمشو)), Doha, Qatar; DOB 16 Apr 1965; POB Damascus, Syria; nationality Syria; alt. nationality Qatar; Gender Female; Passport 01175686 (Qatar) (individual) [SYRIA-EO13894].
+
+Press Release Link
+Treasury Continues to Pressure Investors and Companies Supporting the Assad Regime’s Corrupt Reconstruction Efforts
